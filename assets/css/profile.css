@@ -1,0 +1,45 @@
+.userprofile{
+	margin:30px;
+	border:1px solid black;
+	padding: 10px;
+  box-shadow: 0 4px 8px 0 #97a6de, 0 6px 20px 0 #97a6de;
+}
+.form-control-label{
+	font-size: 14px;
+  font-family:Arial Black;
+}
+.form-control-alternative{
+	padding: 7px;
+	font-family:Verdana;
+}
+
+.form-control:hover{
+  box-shadow: 0 4px 8px 0 #97a6de, 0 6px 20px 0 #97a6de;
+}
+form i{
+	margin-right:5px;
+	margin-left:5px;
+	color:blue;
+}
+.btn{
+	margin:10px;
+}
+.table{
+	 background:white;
+	 border:1px solid none;
+}
+.table thead tr:hover{
+	  box-shadow: none;
+}
+.table tr:hover{
+	  box-shadow: 0 4px 8px 0 #97a6de, 0 6px 20px 0 #97a6de;
+}
+.table td img{
+ width:150px;
+ border-radius:20px;
+ float:left;
+ margin-right:10px;
+}
+.des{
+	height:100px;
+}
